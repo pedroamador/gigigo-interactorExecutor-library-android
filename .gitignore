@@ -29,3 +29,14 @@ proguard/
 Thumbs.db
 *.bak
 .externalNativeBuild
+
+# GIT
+!.gitignore
+!.gitkeep
+
+# Linux
+*~
+.*~
+
+# Fastlane
+fastlane/report.xml
